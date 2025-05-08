@@ -15,7 +15,6 @@ basic:
         - blog
         - blog/safety-checklist-when-buying-a-used-car-with-finance
         - contact-us
-        - scholarship
     monitoring:
         days: {  }
         type: ''
